@@ -1,5 +1,5 @@
 # ASSIGNMENT-1
-This is to submit the assighnment-1 of ITP course.
+This is to submit the assignment-1 of ITP course.
 # TEAM MEMBERS
 enrollment no and github ids
 
