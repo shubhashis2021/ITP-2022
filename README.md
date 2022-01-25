@@ -47,3 +47,8 @@ gradually to 2 and thus the other positions like arr[1][0], arr[1][1], arr[1][2]
 will be updated.
 Finally it will check that value of c = number and f ≠ 1, if found true, it will print “it is a triangular matrix” else it will print “not a triangular matrix”.
  
+  
+
+ 
+
+ 
